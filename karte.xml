@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="yugiohkarte.xsl"?>
+<Karte>
+   <Karta>
+      <Naslov>OBELISK THE TORMENTOR</Naslov>
+      <Slika>1.jpg</Slika>
+      <Vrsta>Monster</Vrsta>
+      <LVL>10</LVL>
+      <ATK>4000</ATK>
+      <DEF>4000</DEF>
+      <Godina>2003</Godina>
+      <Izdanje>1</Izdanje>
+      <Cijena>300 HRK</Cijena>
+  </Karta>
+    <Karta>
+      <Naslov>SLIFER THE SKY DRAGON</Naslov>
+      <Slika>2.jpg</Slika>
+      <Vrsta>Monster</Vrsta>
+      <LVL>10</LVL>
+      <ATK>N/A</ATK>
+      <DEF>N/A</DEF>
+      <Godina>2003</Godina>
+      <Izdanje>1</Izdanje>
+      <Cijena>250 HRK</Cijena>
+  </Karta>
+  
+    <Karta>
+      <Naslov>MIRROR FORCE</Naslov>
+      <Slika>3.jpg</Slika>
+      <Vrsta>Trap</Vrsta>
+      <LVL>N/A</LVL>
+      <ATK>N/A</ATK>
+      <DEF>N/A</DEF>
+      <Godina>2001</Godina>
+      <Izdanje>1</Izdanje>
+      <Cijena>400 HRK</Cijena>
+  </Karta>
+  
+    <Karta>
+      <Naslov>POLYMERIZATION</Naslov>
+      <Slika>4.jpg</Slika>
+      <Vrsta>Spel</Vrsta>
+      <LVL>N/A</LVL>
+      <ATK>N/A</ATK>
+      <DEF>N/A</DEF>
+      <Godina>2000</Godina>
+      <Izdanje>1</Izdanje>
+      <Cijena>600 HRK</Cijena>
+  </Karta>
+  
+    <Karta>
+      <Naslov>OJAMA BLACK</Naslov>
+      <Slika>5.jpg</Slika>
+      <Vrsta>Monster</Vrsta>
+      <LVL>1</LVL>
+      <ATK>0</ATK>
+      <DEF>1000</DEF>
+      <Godina>2006</Godina>
+      <Izdanje>2</Izdanje>
+      <Cijena>5 HRK</Cijena>
+  </Karta>
+  
+    <Karta>
+      <Naslov>BLUE-EYES WHITE DRAGON</Naslov>
+      <Slika>6.jpg</Slika>
+      <Vrsta>Monster</Vrsta>
+      <LVL>7</LVL>
+      <ATK>3000</ATK>
+      <DEF>2500</DEF>
+      <Godina>2003</Godina>
+      <Izdanje>1</Izdanje>
+      <Cijena>1000 HRK</Cijena>
+  </Karta>
+  
+  
+  
+</Karte>
